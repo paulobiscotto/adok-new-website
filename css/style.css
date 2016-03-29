@@ -63,3 +63,22 @@ form {
 .spacer{
   height: 8em;
 }
+
+
+
+.card .card.first {
+  margin-top: -80px;
+}
+
+
+
+.card {
+  border-top: 20px solid #39b1ab;
+  position: relative;
+  background: #FCFCFC;
+  /*border: 2px;*/
+  clear:both;
+  margin: 0 auto 75px auto;
+  padding:50px;
+    max-width: 900px;
+    box-shadow: 0 2px 4px rgba(100,100,100,.1);
