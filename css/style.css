@@ -66,12 +66,12 @@ form {
 
 
 
-.card .card.first {
+.cardblog .card.first {
   margin-top: -80px;
 }
 
 
-.card {
+.cardblog {
   border-top: 20px solid #39b1ab;
   position: relative;
   background: #FCFCFC;
